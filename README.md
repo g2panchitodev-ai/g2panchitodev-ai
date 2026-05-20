@@ -19,9 +19,10 @@ I’m always open to connecting and building new solutions together that make a 
 - **DevOps:** Docker, CI/CD Pipelines, Infrastructure as Code (IaC).
 - **Engineering Roots:** Robotics, Process Control, Embedded Systems, IoT.
 - **AI & Innovation:** AI Product Development, LLM Integration, Autonomous Agents.
-- **My product tech stack includes:** 
-  Frontend: React, 
-  Backend: Node.js, 
+
+## My product tech stack includes:
+  - Frontend: React, 
+  - Backend: Node.js, 
 ---
 
 ### 🚀 Strategic Vision
