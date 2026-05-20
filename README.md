@@ -20,9 +20,13 @@ I’m always open to connecting and building new solutions together that make a 
 - **Engineering Roots:** Robotics, Process Control, Embedded Systems, IoT.
 - **AI & Innovation:** AI Product Development, LLM Integration, Autonomous Agents.
 
+---
 ## My product tech stack includes:
-  - Frontend: React, 
-  - Backend: Node.js, 
+  - Frontend: React, Next.js, TailwindCSS, Vue, Astro, Typescript, HTML/CSS/JavaScript.
+  - Backend: Node.js, Express, MongoDB, PostgreSQL, MySQL, REST APIs, Django, Fast API.
+  - Mobile: React Native.
+  - Infrestructure: AWS, GCP, Azure, Kubernetes, Docker, Terraform, AWS CDK, Jenkins, GitHub Actions,
+  - Programming Languages: Python, Java, C++, JavaScript, TypeScript.
 ---
 
 ### 🚀 Strategic Vision
