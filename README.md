@@ -3,7 +3,13 @@
 
 **Full Stack | Cloud Architect | DevOps | AI Product Builder**
 
-As the Founder of **[Devly](https://www.devly.mx/)** and an Electronics Engineer specialized in **Robotics & Process Control**, I lead the creation of high-impact digital solutions. I bridge the gap between physical engineering precision and digital scalability, building cloud-native architectures that simplify complexity through intuitive design and robust infrastructure.
+As the Founder of **[Devly](https://www.devly.mx/)** Hello, I’m Francisco Rodriguez, an Electronics Engineer specializing in Robotics and Process Control. Although my training began in electronics, I currently work as a Software Engineer, focusing on full-stack development.
+
+I’m passionate about creating digital solutions that are both functional and creative, always with the goal of adding real value to each project. I’m committed to designing experiences that simplify processes while remaining intuitive for the people who use them.
+
+Beyond code, I enjoy sharing ideas, constantly learning, and collaborating in environments where innovation becomes a team effort.
+
+I’m always open to connecting and building new solutions together that make a difference. 🚀
 
 ---
 
@@ -11,10 +17,11 @@ As the Founder of **[Devly](https://www.devly.mx/)** and an Electronics Engineer
 
 - **Architecture & Cloud:** AWS, Cloud-Native Design, Microservices, System Optimization.
 - **DevOps:** Docker, CI/CD Pipelines, Infrastructure as Code (IaC).
-- **Development:** Full Stack Mastery (Node.js, Python, Go, React, TypeScript).
 - **Engineering Roots:** Robotics, Process Control, Embedded Systems, IoT.
 - **AI & Innovation:** AI Product Development, LLM Integration, Autonomous Agents.
-
+- **My product tech stack includes:** 
+  Frontend: React, 
+  Backend: Node.js, 
 ---
 
 ### 🚀 Strategic Vision
@@ -31,8 +38,4 @@ As the Founder of **[Devly](https://www.devly.mx/)** and an Electronics Engineer
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fcojrdzs&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcojrdzs&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9" alt="Top Langs" />
-</div>
+
