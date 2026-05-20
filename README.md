@@ -1,32 +1,33 @@
 # Francisco Rodríguez
-### Electronics Engineer turned Software Architect
+### Founder at [Devly](https://www.devly.mx/) | Software Architect & Electronics Engineer
 
 **Full Stack | Cloud Architect | DevOps | AI Product Builder**
 
-Electronics Engineer specializing in **Robotics & Process Control**, now operating as a Software Engineer. I bridge the physical and digital worlds by building scalable, cloud-native solutions that simplify complex processes through intuitive design and robust infrastructure.
+As the Founder of **[Devly](https://www.devly.mx/)** and an Electronics Engineer specialized in **Robotics & Process Control**, I lead the creation of high-impact digital solutions. I bridge the gap between physical engineering precision and digital scalability, building cloud-native architectures that simplify complexity through intuitive design and robust infrastructure.
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-- **Cloud & DevOps:** AWS, Docker, CI/CD, Infrastructure as Code, Cloud Architecture.
-- **Development:** Full Stack (Node.js/Python/Go + React/TypeScript).
-- **Engineering:** Robotics, Process Control, Embedded Systems, IoT.
-- **Innovation:** AI Product Development, Microservices, System Optimization.
+- **Architecture & Cloud:** AWS, Cloud-Native Design, Microservices, System Optimization.
+- **DevOps:** Docker, CI/CD Pipelines, Infrastructure as Code (IaC).
+- **Development:** Full Stack Mastery (Node.js, Python, Go, React, TypeScript).
+- **Engineering Roots:** Robotics, Process Control, Embedded Systems, IoT.
+- **AI & Innovation:** AI Product Development, LLM Integration, Autonomous Agents.
 
 ---
 
-### 🚀 Focus & Philosophy
+### 🚀 Strategic Vision
 
-- **Value-Driven:** Designing digital experiences that add real value and simplify user lives.
-- **Engineering Mindset:** Applying precision from robotics to software scalability and automation.
-- **Collaboration:** Passionate about continuous learning and team-driven innovation.
+- **Product First:** I don't just write code; I build products that solve real-world problems and enhance user experiences.
+- **Engineering Precision:** Bringing the discipline of robotics to software scalability and automation.
+- **Growth Mindset:** Dedicated to architectural excellence, continuous learning, and fostering high-performance engineering cultures.
 
 ---
 
-### 📬 Let's Build Together
+### 📬 Connect & Collaborate
 
-[LinkedIn](https://www.linkedin.com/in/fcojrdzs/) • [Email](mailto:fcojrdzs@example.com)
+[LinkedIn](https://www.linkedin.com/in/fcojrdzs/) • [Email](mailto:fcojrdzs@example.com) • [Devly](https://www.devly.mx/)
 
 ---
 
