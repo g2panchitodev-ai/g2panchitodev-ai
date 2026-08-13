@@ -1,17 +1,19 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E4057&center=true&vCenter=true&width=600&height=70&lines=Hola+%F0%9F%90%8B%2C+soy+Francisco+Rodr%C3%ADguez;Founder+at+Devly+%E2%9A%A1;Software+Architect+%26+Electronics+Eng;Full+Stack+%E2%80%A2+DevOps+%E2%80%A2+AI+Product+Builder" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>Founder at <a href="https://www.devly.mx/">Devly</a></b> • <b>Software Architect</b> • <b>Electronics Engineer</b>
+# Francisco Rodríguez
+
+<p>
+  <code>Founder @ Devly</code> &nbsp;•&nbsp; <code>Software Architect</code> &nbsp;•&nbsp; <code>Electronics Engineer</code>
 </p>
 
 <p align="center">
-  <a href="https://www.devly.mx/"><img src="https://img.shields.io/badge/Website-Devly.mx-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Devly Website" /></a>
-  <a href="https://www.linkedin.com/in/fcojrdzs/"><img src="https://img.shields.io/badge/LinkedIn-Francisco_Rodr%C3%ADguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:fcojrdzs@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Location-Mexico-%23006847?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="https://www.devly.mx/"><img src="https://img.shields.io/badge/Devly-devly.mx-007ACC?style=flat-square&logo=googlechrome&logoColor=white" alt="Devly Website" /></a>
+  <a href="https://www.linkedin.com/in/fcojrdzs/"><img src="https://img.shields.io/badge/LinkedIn-fcojrdzs-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:fcojrdzs@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Mexico-006847?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
+
+</div>
 
 <br />
 
